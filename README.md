@@ -1,7 +1,5 @@
 ## Hey 😅
 
-I mostly work in Javascript, Scala, and Processing. Starting to get into Ruby.
+I am the Engineering Manager for Payments at Veracross. The past few years I've mostly been a Ruby on Rails developer. My primary focus has been on infrastructure and integrations around online payments. 
 
-Generative art and design projects are my favorite and make up much of this profile. 
-
-Senior Product Engineer at Veracross.
+Also done quite a bit of work in Javascript, Scala, Java, and Processing.
